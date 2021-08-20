@@ -1,2 +1,2 @@
 #!/bin/bash
-root@bef0e9bbac23.3177
+rmdir /tmp/my_first_directory
