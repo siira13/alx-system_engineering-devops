@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+rwx 0x01-shell_permissions
+mkdir my_dir; chmod 751 my_dir
